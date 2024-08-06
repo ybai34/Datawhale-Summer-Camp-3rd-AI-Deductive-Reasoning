@@ -4,8 +4,6 @@
 
 This is the study file for datawhale summer camp. The learning track I chose is the AI + Logical Reasoning track.
 
-# AI 大模型基础知识学习与应用项目
-
 ## 项目介绍
 
 这个项目主要是学习和应用 AI 大模型的基础知识，包括调用各种 API 和微调模型参数。通过这些学习和应用，我们旨在提高处理复杂问题的能力，并参与公开的算法竞赛。
@@ -24,8 +22,6 @@ This is the study file for datawhale summer camp. The learning track I chose is 
 竞赛链接: [http://competition.sais.com.cn/competitionDetail/532231/format](http://competition.sais.com.cn/competitionDetail/532231/format)
 
 ---
-
-# AI Large Model Basic Knowledge Learning and Application Project
 
 ## Project Introduction
 
