@@ -1,8 +1,8 @@
-# Datawhale-Summer-Camp
+# Datawhale-Summer-Camp-3rd-AI-Deductive-Reasoning
 
-这里是datawhale夏令营的学习文件。我选择的学习赛道是AI+逻辑推理赛道。
+这里是datawhale夏令营第三期的学习文件。我选择的学习赛道是AI+逻辑推理赛道。
 
-This is the study file for datawhale summer camp. The learning track I chose is the AI + Logical Reasoning track.
+This is the study file for datawhale summer camp 3rd season. The learning track I chose is the AI + Logical Reasoning track.
 
 ## 项目介绍
 
